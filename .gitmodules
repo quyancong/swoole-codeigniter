@@ -1,0 +1,3 @@
+[submodule "swoole-codeigniter"]
+	path = swoole-codeigniter
+	url = https://github.com/quyancong/swoole-codeigniter.git
